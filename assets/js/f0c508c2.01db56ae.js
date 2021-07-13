@@ -1,0 +1,1 @@
+(self.webpackChunkpixel_infra=self.webpackChunkpixel_infra||[]).push([[432],{4942:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/pixel-infra/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/pixel-infra/blog/tags/hola"}')}}]);
