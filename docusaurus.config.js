@@ -6,7 +6,7 @@ module.exports = {
   title: 'Pixel Ports - curtana',
   tagline: 'Google Pixel betas. On your curtana.',
   url: 'https://pixel-curtana.github.io', // Your website URL
-  baseUrl: '/',
+  baseUrl: '/pixel-infra/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -37,15 +37,6 @@ module.exports = {
     footer: {
       style: 'dark',
       links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
-          ],
-        },
         {
           title: 'Community',
           items: [
