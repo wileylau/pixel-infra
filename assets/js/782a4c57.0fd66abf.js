@@ -1,1 +1,0 @@
-(self.webpackChunkpixel_infra=self.webpackChunkpixel_infra||[]).push([[75],{2727:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/pixel-infra/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/pixel-infra/blog/tags/docusaurus"}')}}]);

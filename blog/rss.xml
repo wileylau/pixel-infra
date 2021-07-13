@@ -8,32 +8,11 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Beta release 2.1]]></title>
+            <title><![CDATA[Android 12 Beta 2.1 Release]]></title>
             <link>https://pixel-curtana.github.io/pixel-infra/blog/twopointone</link>
-            <guid>Beta release 2.1</guid>
+            <guid>Android 12 Beta 2.1 Release</guid>
             <pubDate>Tue, 13 Jul 2021 13:42:11 GMT</pubDate>
             <description><![CDATA[(idk i'll type later)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Welcome]]></title>
-            <link>https://pixel-curtana.github.io/pixel-infra/blog/welcome</link>
-            <guid>welcome</guid>
-            <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hello]]></title>
-            <link>https://pixel-curtana.github.io/pixel-infra/blog/hello-world</link>
-            <guid>hello-world</guid>
-            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hola]]></title>
-            <link>https://pixel-curtana.github.io/pixel-infra/blog/hola</link>
-            <guid>hola</guid>
-            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
         </item>
     </channel>
 </rss>
