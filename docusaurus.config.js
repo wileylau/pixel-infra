@@ -20,7 +20,7 @@ module.exports = {
       //   src: 'img/logo.svg',
       // },
       items: [
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: 'Releases', position: 'left'},
         {
           href: 'https://github.com/JamieHoSzeYui/pixel-infra',
           label: 'GitHub',
