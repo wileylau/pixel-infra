@@ -22,8 +22,8 @@ module.exports = {
       items: [
         {to: '/blog', label: 'Releases', position: 'left'},
         {
-          href: 'https://github.com/JamieHoSzeYui/pixel-infra',
-          label: 'GitHub',
+          href: 'https://paypal.me/JamieHoSzeYui/',
+          label: 'Donate (PayPal)',
           position: 'right',
         },
       ],
