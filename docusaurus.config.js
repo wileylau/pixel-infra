@@ -15,10 +15,10 @@ module.exports = {
   themeConfig: {
     navbar: {
       title: 'Pixel Ports - Curtana',
-      logo: {
-        alt: 'Pixel Ports Logo',
-        src: 'img/logo.svg',
-      },
+      // logo: {
+      //   alt: 'Pixel Ports Logo',
+      //   src: 'img/logo.svg',
+      // },
       items: [
         {to: '/blog', label: 'Blog', position: 'left'},
         {
