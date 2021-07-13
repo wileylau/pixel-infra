@@ -4,9 +4,16 @@
         <title>Pixel Ports - curtana Blog</title>
         <link>https://pixel-curtana.github.io/pixel-infra/blog</link>
         <description>Pixel Ports - curtana Blog</description>
-        <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jul 2021 13:42:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beta release 2.1]]></title>
+            <link>https://pixel-curtana.github.io/pixel-infra/blog/twopointone</link>
+            <guid>Beta release 2.1</guid>
+            <pubDate>Tue, 13 Jul 2021 13:42:11 GMT</pubDate>
+            <description><![CDATA[(idk i'll type later)]]></description>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://pixel-curtana.github.io/pixel-infra/blog/welcome</link>
