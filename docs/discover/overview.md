@@ -29,4 +29,4 @@ Installation of the ROM is easy. Just simply download the ZIP, and then boot to 
 
 ### Community ###
 
-We have a support group on [Telegram](https://t.me/pixel_curtana), where you can communicate with fellow users and get direct help.
+We have a support group on [Telegram](https://t.me/ppkingdom), where you can communicate with fellow users and get direct help.

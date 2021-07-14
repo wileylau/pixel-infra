@@ -51,7 +51,7 @@ module.exports = {
             },
             {
               label: 'Telegram - Support group',
-              href: 'https://t.me/pixel_curtana',
+              href: 'https://t.me/ppkingdom',
             },
           ],
         },
