@@ -23,6 +23,6 @@ The following devices' support is NOT confirmed. They *may* be production ready,
 
 - Redmi Note 10 Pro `sweet`
 
-### Get status updates for `sweet` [here](sweet/latest.md) ####
+#### Get status updates for `sweet` [here](sweet/latest.md) ####
  
 More devices may come in the future, so stay tuned.
