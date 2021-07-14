@@ -20,12 +20,12 @@ module.exports = {
       //   src: 'img/logo.svg',
       // },
       items: [
-        // {
-        //   type: 'doc',
-        //   docId: 'faq',
-        //   position: 'left',
-        //   label: 'FAQ / Docs',
-        // },
+        {
+          type: 'doc',
+          docId: 'discover/overview',
+          position: 'left',
+          label: 'Overview',
+        },
         {to: '/blog', label: 'Releases', position: 'left'},
         {
           href: 'https://paypal.me/JamieHoSzeYui/',
