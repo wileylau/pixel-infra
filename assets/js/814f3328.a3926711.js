@@ -1,1 +1,0 @@
-(self.webpackChunkpixel_infra=self.webpackChunkpixel_infra||[]).push([[535],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Android 12 Beta 2.1 Release","permalink":"/pixel-infra/blog/twopointone"}]}')}}]);
