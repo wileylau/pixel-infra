@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-### Request a device ###
+# Request a device #
 
 I understand the pain of not having a nice Pixel Port. In order to get your device supported, your device needs to pass the following prerequisites:
 
