@@ -3,9 +3,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Pixel Ports - curtana',
-  tagline: 'Google Pixel betas. On your curtana.',
-  url: 'https://pixel-curtana.github.io', // Your website URL
+  title: "Henlo's Pixel Kingdom",
+  tagline: 'Google Pixel betas. On your cozy potato device.',
+  url: 'https://pixel-infra.github.io', // Your website URL
   baseUrl: '/pixel-infra/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -14,7 +14,7 @@ module.exports = {
   projectName: 'pixel-infra', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Pixel Ports - Curtana',
+      title: "Henlo's Pixel Kingdom",
       // logo: {
       //   alt: 'Pixel Ports Logo',
       //   src: 'img/logo.svg',
