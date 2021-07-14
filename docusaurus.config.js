@@ -26,7 +26,12 @@ module.exports = {
           position: 'left',
           label: 'Overview',
         },
-        {to: '/blog', label: 'Releases', position: 'left'},
+        {
+          type: 'doc',
+          docId: 'download/devices',
+          position: 'left',
+          label: 'Downloads',
+        },
         {
           href: 'https://paypal.me/JamieHoSzeYui/',
           label: 'Donate (PayPal)',
