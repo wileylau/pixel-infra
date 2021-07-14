@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Bugs #
 
-Sadly, nothing is perfect. Yes, we admit, we have bugs. We are trying our best to fix it, to resemble the experience of using a real Pixel on your phone.
+Sadly, nothing is perfect. Yes, we admit, the port may have bugs. We are trying our best to fix it, to resemble the experience of using a real Pixel on your phone.
 
 Common bugs include:
 - Now Playing (Missing binaries)
