@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://pixel-curtana.github.io/pixel-infra/blog</id>
-    <title>Pixel Ports - curtana Blog</title>
+    <id>https://pixel-infra.github.io/pixel-infra/blog</id>
+    <title>Henlo's Pixel Kingdom Blog</title>
     <updated>2021-07-13T13:42:11.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://pixel-curtana.github.io/pixel-infra/blog"/>
-    <subtitle>Pixel Ports - curtana Blog</subtitle>
-    <icon>https://pixel-curtana.github.io/pixel-infra/img/favicon.ico</icon>
+    <link rel="alternate" href="https://pixel-infra.github.io/pixel-infra/blog"/>
+    <subtitle>Henlo's Pixel Kingdom Blog</subtitle>
+    <icon>https://pixel-infra.github.io/pixel-infra/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Android 12 Beta 2.1 Release]]></title>
         <id>Android 12 Beta 2.1 Release</id>
-        <link href="https://pixel-curtana.github.io/pixel-infra/blog/twopointone"/>
+        <link href="https://pixel-infra.github.io/pixel-infra/blog/twopointone"/>
         <updated>2021-07-13T13:42:11.611Z</updated>
         <summary type="html"><![CDATA[(idk i'll type later)]]></summary>
     </entry>
