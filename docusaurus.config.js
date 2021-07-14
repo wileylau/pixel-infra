@@ -62,6 +62,10 @@ module.exports = {
               label: 'Pling',
               href: 'https://www.pling.com/p/1512845/',
             },
+            {
+              label: 'GitHub',
+              href: 'https://www.github.com/JamieHoSzeYui/pixel-infra/',
+            },
           ],
         },
       ],
