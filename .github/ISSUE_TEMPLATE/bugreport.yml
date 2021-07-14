@@ -1,0 +1,39 @@
+name: Bug Report
+description: File a bug report
+title: "[BUGREPORT]: "
+labels: [bug]
+assignees:
+  - JamieHoSzeYui
+body:
+  - type: input
+    id: contact
+    attributes:
+      label: Telegram ID
+      description: How should we get in touch with you if we need more info?
+      placeholder: ex. @henloboi
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you see!
+    validations:
+      required: true
+  - type: dropdown
+    id: device
+    attributes:
+      label: Device
+      description: What device is this bug found on?
+      options:
+        - Redmi Note 9 Pro series (miatoll)
+        - Redmi Note 10 Pro (sweet)
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logcat
+      description: Please attach logs from the issue by drag and drop / copypaste, so it is easier for us to fix it.
+      render: shell
