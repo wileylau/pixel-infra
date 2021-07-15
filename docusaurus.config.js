@@ -28,9 +28,9 @@ module.exports = {
         },
         {
           type: 'doc',
-          docId: 'download/devices',
+          docId: 'discover/devices',
           position: 'left',
-          label: 'Downloads',
+          label: 'Supported devices',
         },
         {
           href: 'https://paypal.me/JamieHoSzeYui/',

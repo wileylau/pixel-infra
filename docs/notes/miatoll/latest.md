@@ -19,3 +19,7 @@ sidebar_position: 1
 
 ### Notes ###
 - Set time manually on Setup wizard if Google's time sync gives you the wrong time.
+
+### Download ###
+
+Please move to [Downloads section](../../download/miatoll/latest)
