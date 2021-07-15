@@ -21,4 +21,8 @@ sidebar_position: 1
 - Set time manually on Setup wizard if Google's time sync gives you the wrong time.
 
 ### Download ###
-Under beta testing
+Filename: `miatoll-spb3.210618.013-factory-7a625e93.zip`
+
+md5sum: `a5e798a7f5b7fa913eafa952f0581888`
+
+[Download](https://youtu.be/bxqLsrlakK8)
