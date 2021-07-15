@@ -28,7 +28,6 @@ body:
       description: What device is this bug found on?
       options:
         - Redmi Note 9 Pro series (miatoll)
-        - Redmi Note 10 Pro (sweet)
     validations:
       required: true
   - type: textarea
