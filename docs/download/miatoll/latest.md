@@ -12,6 +12,7 @@ sidebar_position: 1
 - Fix heating (Thanks to iNeoony)
 - Enable hidden Gaming mode ootb
 - ZIP is signed by SignAPK (flashable by AOSP recovery)
+- Fix Internal boot error & Android Beta notification
 
 ### Bugs ###
 - None noticed. Report with logcat.
