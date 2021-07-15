@@ -13,6 +13,8 @@ It is what it is. Pixel Betas, ported to my phones.
 
 - Inlined vendor, system (and ODM) props
 
+- Pixel's special vibration patterns
+
 - Save extra juice with Pixel's algorithms
 
 - Pretty much everything you can get with a Pixel
