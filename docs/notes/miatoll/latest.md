@@ -6,7 +6,6 @@ sidebar_position: 1
 
 ### Changelogs ###
 - Switch to Pixel's TimeService
-- VNDK 30
 - Switch to Positron kernel Feb (Thanks to Alex)
 - Inline vendor and odm props with Pixel 4a SPB3
 - Fix heating (Thanks to iNeoony)
