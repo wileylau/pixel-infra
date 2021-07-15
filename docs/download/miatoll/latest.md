@@ -11,6 +11,7 @@ sidebar_position: 1
 - Inline vendor and odm props with Pixel 4a SPB3
 - Fix heating (Thanks to iNeoony)
 - Enable hidden Gaming mode ootb
+- ZIP is signed by SignAPK (flashable by AOSP recovery)
 
 ### Bugs ###
 - None noticed. Report with logcat.
