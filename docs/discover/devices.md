@@ -15,6 +15,6 @@ Current supported devices include:
 
 The above is unified as `miatoll`.
 
-#### Get the release for `miatoll` [here](miatoll/latest.md) ####
+#### Read the release notes for `miatoll` [here](notes/miatoll/latest.md) ####
  
 More devices may come in the future, so stay tuned.
