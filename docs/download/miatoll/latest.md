@@ -16,7 +16,7 @@ you point the finger at me for messing up your device, I will laugh at you. Hard
 
 ### Full OTA Package ###
 
-[Download](https://youtu.be/bxqLsrlakK8)
+Redmi Note 9 Pro / 9 Pro Max / 9S / Poco M2 Pro: [Download](https://youtu.be/bxqLsrlakK8)
 
 :::tip
 
