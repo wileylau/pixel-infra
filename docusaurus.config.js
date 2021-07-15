@@ -8,7 +8,7 @@ module.exports = {
   url: 'https://pixel-infra.github.io', // Your website URL
   baseUrl: '/pixel-infra/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'throw',
   favicon: 'img/logo.png',
   organizationName: 'JamieHoSzeYui', // Usually your GitHub org/user name.
   projectName: 'pixel-infra', // Usually your repo name.
