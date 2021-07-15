@@ -9,7 +9,7 @@ module.exports = {
   baseUrl: '/pixel-infra/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.png',
   organizationName: 'JamieHoSzeYui', // Usually your GitHub org/user name.
   projectName: 'pixel-infra', // Usually your repo name.
   themeConfig: {
