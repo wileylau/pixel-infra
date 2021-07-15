@@ -13,6 +13,9 @@ module.exports = {
   organizationName: 'JamieHoSzeYui', // Usually your GitHub org/user name.
   projectName: 'pixel-infra', // Usually your repo name.
   themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+    },
     navbar: {
       title: "Henlo's Pixel Kingdom",
       // logo: {
