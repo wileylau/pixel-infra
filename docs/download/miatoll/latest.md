@@ -18,7 +18,7 @@ sidebar_position: 1
 - None noticed. Report with logcat.
 
 ### Notes ###
-- Set time manually on Setup wizard if you find Google's automatic one wrong.
+- Set time manually on Setup wizard if Google's time sync gives you the wrong time.
 
 ### Download ###
 Under beta testing
