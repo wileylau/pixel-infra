@@ -12,4 +12,6 @@ Installing the ROM is easy.
 4. Flash the ROM ZIP, by sideload or just selecting the ZIP.
 5. Reboot.
 
-Optional: After a reboot, you can flash magisk.
+:::tip 
+You can install magisk after first boot.
+:::
