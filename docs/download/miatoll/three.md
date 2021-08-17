@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 
-# Beta 2.1 #
+# Beta 3 #
 
 :::caution
 Your warranty is now void.
@@ -18,10 +18,11 @@ you point the finger at me for messing up your device, I will laugh at you. Hard
 
 ### Full OTA Package ###
 
-##### Redmi Note 9 Pro / 9 Pro Max / 9S / Poco M2 Pro: [Download](https://www.pling.com/p/1512845/startdownload?file_id=1624670764&file_name=miatoll-spb2-beta2-eol.zip&file_type=application/zip&file_size=2237283240) #####
+##### Redmi Note 9 Pro / 9 Pro Max / 9S / Poco M2 Pro: [Download](https://www.pling.com/p/1512845/) #####
 
 :::tip
 
-Filename: `miatoll-spb2-beta2-eol.zip`
+Filename: `miatoll-spb3.210618.013-factory-7a625e93.zip`
 
+md5sum: `a5e798a7f5b7fa913eafa952f0581888`
 :::

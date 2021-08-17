@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Beta 3 #
+# Beta 4 #
 
 :::caution
 Your warranty is now void.
@@ -22,7 +22,7 @@ you point the finger at me for messing up your device, I will laugh at you. Hard
 
 :::tip
 
-Filename: `miatoll-spb3.210618.013-factory-7a625e93.zip`
+Filename: `miatoll-spb4.210715.011-factory-eff04c1b.zip`
 
-md5sum: `a5e798a7f5b7fa913eafa952f0581888`
+md5sum: `9fd6ffd5d2dcfd92bf9b18b127cd7fec`
 :::
