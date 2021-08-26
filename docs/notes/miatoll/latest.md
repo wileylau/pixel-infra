@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 ---
 
-# Beta 4 #
+# Beta 4.1 #
 
 ### Changelogs ###
 - Switch to Pixel thermal and Pixel power HAL
