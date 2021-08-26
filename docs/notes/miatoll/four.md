@@ -5,9 +5,12 @@ sidebar_position: 1
 # Beta 4 #
 
 ### Changelogs ###
-- Switch to Pixel thermal and Pixel power HAL
-- Drop inbuilt magisk
-- more misc vendor optimizations
+- Include GcamGo ootb
+- Switch to Nightstar kernel 
+- Inline vendor and odm props with Pixel 4a SPB4
+- Fix heating (confirmed)
+- Enabled AOD option
+- ZIP is signed by SignAPK (flashable by AOSP recovery)
 
 ### Bugs ###
 - None noticed. Report with logcat.
