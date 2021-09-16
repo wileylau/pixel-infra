@@ -2,15 +2,14 @@
 sidebar_position: 0
 ---
 
-# Beta 4.1 #
+# Beta 5 #
 
 ### Changelogs ###
-- Switch to Pixel thermal and Pixel power HAL
-- Drop inbuilt magisk
-- more misc vendor optimizations
+- Switch to old vendor (fix some heating and stuff)
+- Switch to Pixel 5a base (barbet)
 
 ### Bugs ###
-- None noticed. Report with logcat.
+- Inbuilt Google Camera doesn't work. Install any 3rd party camera.
 
 ### Notes ###
 - None.
