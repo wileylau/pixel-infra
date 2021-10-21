@@ -2,17 +2,22 @@
 sidebar_position: 0
 ---
 
-# Beta 5 #
+# Release Candidate, October 2021 #
 
 ### Changelogs ###
-- Switch to old vendor (fix some heating and stuff)
-- Switch to Pixel 5a base (barbet)
+- Vendor redo, fixes the following issues:
+        - Microphone malfunction when using speakers in call
+        - Zoom / Google Meet / Microsoft Teams meeting having high-pitched voice
+        - Nailshot (Having difficulty taking screenshots with hardware buttons)
+- Fix dual SIM card options in Settings.
+- Allow decryption by disabling binary format for XMLs.
+- Dropped inbuilt Google Camera that never worked.
 
 ### Bugs ###
-- Inbuilt Google Camera doesn't work. Install any 3rd party camera.
+- None. Report back with logcat.
 
 ### Notes ###
-- None.
+- VNDK 30 build as for now. No other devices except Pixels are receiving VNDK 31 from their OEMs anyways.
 
 ### Download ###
 
