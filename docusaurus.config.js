@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: "Henlo's Pixel Kingdom",
-  tagline: 'Google Pixel betas. On your cozy potato device.',
+  tagline: 'Google Pixel OTAs. On your cozy potato device.',
   url: 'https://pixel-infra.github.io', // Your website URL
   baseUrl: '/pixel-infra/',
   onBrokenLinks: 'throw',
