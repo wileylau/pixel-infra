@@ -1,8 +1,8 @@
 ---
-sidebar_position: 0
+sidebar_position: 1
 ---
 
-# Release Candidate, November 2021 #
+# Release Candidate, October 2021 #
 
 :::caution
 Your warranty is now void.
@@ -22,7 +22,7 @@ you point the finger at me for messing up your device, I will laugh at you. Hard
 
 :::tip
  
-Filename: `miatoll-sd1a.210817.037-ota-0827bca4.zip`
+Filename: `miatoll-ota-sp1a.210812.015-762938a3.zip`
 
-md5sum: `158657d9fe96a0a43a9ec15ab99f521e`
+md5sum: `afbaf9b8df9bf781e8cd4ee2249a11ad`
 :::
