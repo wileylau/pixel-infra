@@ -8,8 +8,6 @@ Sadly, nothing is perfect. Yes, we admit, the port may have bugs. We are trying 
 
 Common bugs include:
 - Now Playing (Missing binaries)
-- Ok Google (Missing binaries)
-- Decryption (Just leave your device encrypted.)
 
 ### Bug reporting ###
 If you find any bugs, please don't hesitate to report them. We need your help! 
